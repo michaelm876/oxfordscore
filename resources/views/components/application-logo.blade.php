@@ -1,0 +1,1 @@
+<img src="{{ url('/images/logo.png') }}" alt="NHS Forth Valley" width="120px">

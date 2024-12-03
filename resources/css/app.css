@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.offscreen {
+	position: absolute;
+	left: -9999px;
+}
+
+.form-margin {
+	margin-bottom: 2.5rem;
+}
+
+.light-blue {
+	background-color: #0099db;
+}
+
+.nice-blue {
+	background-color: #005aaa;
+}
+
+.dark-blue {
+	background-color: #134987;
+}
+
+.light-blue-text {
+	color: #0099db;
+}
+
+.nice-blue-text {
+	color: #005aaa;
+}
+
+.dark-blue-text {
+	color: #134987;
+}
+
+.border-nice-blue {
+	border-color: #005aaa;
+}
+
+.border-dark-blue {
+	border-color: #134987;
+}
